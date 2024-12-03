@@ -1,0 +1,4 @@
+baseURL = "Anish-Blogs.github.io"
+languageCode = "en-us"
+title = "Anish-AutoBlogs"
+theme = "hugo-paper"
